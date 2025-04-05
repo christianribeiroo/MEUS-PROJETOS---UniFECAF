@@ -30,6 +30,12 @@ Fonte: [https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset](https:/
 - Recomendação de filmes baseada em filtragem colaborativa
 - Propostas para sistemas híbridos e melhorias futuras
 
+## 📓 Notebook no Google Colab
+Você pode acessar o notebook completo do projeto StartFlix pelo link abaixo:
+🔗 [Clique aqui para abrir no Google Colab](https://colab.research.google.com/drive/1WwmWCHomgZuY8WduW9Xj5fsgasvcO_9o?usp=sharing)
+
+
+
 ## 📚 Referências
 - Programming Collective Intelligence (Toby Segaran)
 - Collaborative Filtering Recommender Systems (Adomavicius & Tuzhilin)
